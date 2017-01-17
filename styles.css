@@ -1,0 +1,16 @@
+#teamname {
+  color: #006BB6;
+  font-size: 6em;
+  font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+h1 {
+  color: #006BB6;
+  font-weight: bold;
+}
